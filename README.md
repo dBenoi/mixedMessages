@@ -12,3 +12,6 @@ Codecademy "Mixed Messages" Project
 - Use Git version control
 - Use CLI
 - Develop locally on computer
+
+## Overview
+This script takes a verb, a quote, and a famous person from respective arrays, randomizes the outputs and displays the output to the console.
